@@ -8,6 +8,7 @@
 import math
 import os
 
+
 # function to calculate sin(x)
 def cal_sin(x_float):
     # change variable to make it easier to code
